@@ -2,4 +2,4 @@
 
 ### Stage A task
 
-Introudcyion to Python Machine Learning
+Introduction to Python Machine Learning
